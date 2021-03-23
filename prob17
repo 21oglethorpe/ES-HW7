@@ -1,0 +1,3 @@
+1. Compilation/Synthesis, allows specification of functionality in an abstract manner, and makes the lower-level implementation. This saves time when making the design of the system.
+2. Libraries, allow use of pre-made implementations. Allows to save time if it takes less time to grab and use the library item than to re-design it.
+3. Test/Verification, ensures functionality is correct. Prevents necessity to debug at low abstraction levels and iterating back to high abstraction levels.
