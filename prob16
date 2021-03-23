@@ -1,0 +1,3 @@
+1. Full-custom/VLSI, all layers are optimized for digital implementation. Very good performance with small size and power usage
+2. Semi-custom ASIC, The lower layers are fully or partially built, so the upper layers are unfinished. Have good performance and size, with a lot lower NRE cost than full-custom.
+3. PLD, all layers already exist, so the actual IC can be purchased. Very low NRE cost with reasonable performance, good for rapid prototyping.
