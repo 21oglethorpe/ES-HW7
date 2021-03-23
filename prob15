@@ -1,0 +1,3 @@
+1. General-purpose processor, contains program memory and general datapath with a large register file and ALUs. Benefit of using this is low design time and NRE cost, high flexibility.
+2. Single-purpose processors, executes exactly one program. Benefits are that performance should be generally faster than general-purpose because it uses a specific program. Size and power are small too.
+3. Application-specific processor, mix of both general-purpose and single-purpose where it is designed for a speciffic class of applications. Benefits are higher flexibility than single-processor with still a good level of size, power and performance.
